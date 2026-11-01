@@ -1,1 +1,1 @@
-console.log("Primary Page");
+console.log("Counter Page");
